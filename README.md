@@ -6,3 +6,4 @@ Diagramm Component - https://drive.google.com/file/d/1AbDvCPWx538I-sw5OkJPWVljXN
 Diagramm class -https://drive.google.com/file/d/1JRGctq3FR8tXWKvq_Cq94FlQBkf3IgKz/view?usp=sharing <br>
 Diagramm poyasnitelnaya - https://drive.google.com/file/d/14pfMidtzLWE8MpXblYL5MvKMKfJUdBBM/view?usp=sharing <br>
 Diagramm component new- https://app.diagrams.net/#G1AbDvCPWx538I-sw5OkJPWVljXNj4Vx33 <br>
+BPMN - https://app.diagrams.net/#G1z1pwL90iPwLqUGJHPI5rT8IknGWm1Dd9<br>
