@@ -7,3 +7,4 @@ Diagramm class -https://drive.google.com/file/d/1JRGctq3FR8tXWKvq_Cq94FlQBkf3IgK
 Diagramm poyasnitelnaya - https://drive.google.com/file/d/14pfMidtzLWE8MpXblYL5MvKMKfJUdBBM/view?usp=sharing <br>
 Diagramm component new- https://app.diagrams.net/#G1AbDvCPWx538I-sw5OkJPWVljXNj4Vx33 <br>
 BPMN - https://app.diagrams.net/#G1z1pwL90iPwLqUGJHPI5rT8IknGWm1Dd9<br>
+Принцип использования приложением - https://app.diagrams.net/#G1X5EeAgVAvuEQA3NSeIMI9xVbi4RY9R_Y#%7B%22pageId%22%3A%22dbEcFfiS_jGQxHzn2UB0%22%7D<br>
